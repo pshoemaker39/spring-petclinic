@@ -13,3 +13,9 @@ The first argument is the Alt-text for the image. The second argument is the pat
 ## A [5 pts] Your dockerfile. Please provide a link to this file rather than a screen capture. 
 
 ![Dockerfile](Dockerfile)
+
+## B [5 pts] Your running docker instance as shown by a ps command.
+![Docker ps]("./../images/docker-ps.png")
+
+## C [5 pts] Your browser accessing the main page of the website from your local container.
+![Docker Server Running]("./../images/server-running.png")
